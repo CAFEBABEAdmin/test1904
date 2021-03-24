@@ -9,5 +9,5 @@ public class User {
     private String aoligei;
 
     private String nihao;
-
+    private Integer ququ;
 }
